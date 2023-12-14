@@ -5,4 +5,4 @@ services:
     ports:
       - "1060:80"
     volumes:
-      - ./web-pokemon:/usr/share/nginx/html
+      - ./web-pokedex:/usr/share/nginx/html
